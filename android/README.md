@@ -1,0 +1,1 @@
+- [屏幕分辨率](https://developer.android.google.cn/guide/practices/screens_support.html?hl=zh-cn)

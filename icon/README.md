@@ -9,3 +9,7 @@
 - [`Zocial`](http://zocial.smcllns.com/) by Sam Collins (v1.0, **100** icons)
 - [`SimpleLineIcons`](http://simplelineicons.com/) by Sabbir & Contributors (v2.4.1, **189** icons)
 - [FeatherIcon](https://feathericons.com/)
+
+---
+
+- [APP切图命名规范：介绍一种通用的命名规则](http://www.woshipm.com/ucd/575469.html)
