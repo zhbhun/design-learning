@@ -1,1 +1,3 @@
-http://iosres.com/
+- http://iosres.com/
+- [iOS Design](https://kapeli.com/cheat_sheets/iOS_Design.docset/Contents/Resources/Documents/index)
+- [The Ultimate Guide To iPhone Resolutions](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)
