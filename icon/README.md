@@ -9,6 +9,7 @@
 - [`Zocial`](http://zocial.smcllns.com/) by Sam Collins (v1.0, **100** icons)
 - [`SimpleLineIcons`](http://simplelineicons.com/) by Sabbir & Contributors (v2.4.1, **189** icons)
 - [FeatherIcon](https://feathericons.com/)
+- [material-design-icons](https://github.com/google/material-design-icons)
 
 ---
 
