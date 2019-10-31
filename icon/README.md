@@ -10,6 +10,7 @@
 - [`SimpleLineIcons`](http://simplelineicons.com/) by Sabbir & Contributors (v2.4.1, **189** icons)
 - [FeatherIcon](https://feathericons.com/)
 - [material-design-icons](https://github.com/google/material-design-icons)
+- [weather-icons](https://github.com/erikflowers/weather-iconshttps://github.com/erikflowers/weather-icons)
 
 ---
 
