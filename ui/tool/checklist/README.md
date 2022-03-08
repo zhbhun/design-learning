@@ -1,1 +1,2 @@
 - [Checklist Design](https://www.checklist.design)
+- [UX Project Checklist](https://uxchecklist.github.io/) - A place to help you check if the UX features are up to standard in the design or not.
