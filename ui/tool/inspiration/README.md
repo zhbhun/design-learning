@@ -6,3 +6,4 @@
 - [Museum of Websites](https://www.kapwing.com/museum-of-websites) - Is a place to synthesize the design of famous websites through each development stage. In my opinion, it will help you have a better overview of how to design and develop the interface for the website.
 - [Cool Backgrounds](https://coolbackgrounds.io/) - Help you create beautiful background image effects for website development.
 - [Wicked Backgrounds](https://wickedbackgrounds.com/app/?ref=usniemvuilaptrinh)
+- [UI Design Daily](https://www.uidesigndaily.com/) - Is a place to synthesize UI designs for web design.
