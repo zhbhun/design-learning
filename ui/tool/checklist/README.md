@@ -1,2 +1,3 @@
 - [Checklist Design](https://www.checklist.design)
 - [UX Project Checklist](https://uxchecklist.github.io/) - A place to help you check if the UX features are up to standard in the design or not.
+- [Landing Page Checklist](https://landingpage.fyi/landing-page-checklist.html) - Synthesize more than 100 tools for landing pages such as choosing a domain name, landing page design software, logo maker…
