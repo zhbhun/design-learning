@@ -5,6 +5,7 @@
 - [boxicons](https://github.com/atisawd/boxicons)
 - [ionicons](https://github.com/ionic-team/ionicons)
 - [feather](https://github.com/feathericons/feather)
+- [3dicons](https://3dicons.co/) - Collection of free 3D icons for website design and development.
 
 ---
 
