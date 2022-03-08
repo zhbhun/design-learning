@@ -4,3 +4,5 @@
 - [collectui](https://collectui.com) - Summary of UI designs and updated daily.
 - [UI Patterns](http://uipatterns.io/) - It helps you discover design patterns as well as how to solve common problems in the website design process.
 - [Museum of Websites](https://www.kapwing.com/museum-of-websites) - Is a place to synthesize the design of famous websites through each development stage. In my opinion, it will help you have a better overview of how to design and develop the interface for the website.
+- [Cool Backgrounds](https://coolbackgrounds.io/) - Help you create beautiful background image effects for website development.
+- [Wicked Backgrounds](https://wickedbackgrounds.com/app/?ref=usniemvuilaptrinh)
