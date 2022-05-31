@@ -2,8 +2,10 @@
 
 ## 书籍
 
-- 《面向对象分析与设计》
-- 《大象：Thinking in UML》
+- [《UML和模式应用》](https://book.douban.com/subject/1503999/)
+- [《大象：Thinking in UML》](https://book.douban.com/subject/10549583/)
+- [《UML精粹》](https://book.douban.com/subject/10798193/)
+- [《“图解”产品：产品经理业务设计与 UML 建模》](https://book.douban.com/subject/35590821/)
 
 ## 基础
 
