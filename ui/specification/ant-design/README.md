@@ -33,3 +33,26 @@
 ### 功能色
 
 - [Ant Design 功能色](https://ant.design/docs/spec/colors-cn#%E5%8A%9F%E8%83%BD%E8%89%B2)
+
+### 暗黑模式
+
+- https://ant.design/docs/spec/dark-cn
+
+## 字体
+
+### 字体家族
+
+```css
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+  'Noto Sans', sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol',
+  'Noto Color Emoji';
+  font-variant-numeric: tabular-nums; /* 在中后台系统中，数字经常需要进行纵向对比展示，可以单独将数字的字体 font-variant-numeric 设置为 tabular-nums，使其为等宽字体。 */
+}
+```
+
+### 字号和行高
+
+| Font Size | 12 | 14 | 16 | 20 | 24 | 30 | 38 | 46 | 56 | 68 | ... |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Line Height | 20 | 22 | 24 | 28 | 32 | 38 | 46 | 54 | 64 | 76 | ... |
