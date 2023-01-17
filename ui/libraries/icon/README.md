@@ -6,6 +6,7 @@
 - [flaticon](https://www.flaticon.com/) - 扁平风格，图案为主，icon数量繁多，搜索时具有联想搜索功能，大多为免费资源，下载时可以选择大小。 PS：图标下方有S标样的为免费，有皇冠标样的为付费，9.99美元可以无限使用。
 - [Noun Project](https://thenounproject.com/) - 线条为主，一个图案会有不同粗细线条，阴阳版，有写实风格，也有极简风格，搜索时会以系列或单个方式呈现，下载时需要登录。此网站提供PNG与SVG格式，下载时可以选择颜色。
 - [confinder](https://www.iconfinder.com/) - 搜索功能强大，具有线条，图形，扁平风，写实，3D，卡通，像素等分类。全部以系列呈现，支持单个下载。下载时可以选择大小，免费与付费，提供SVG,PNG,AI,PS格式。
+- [Iconbolt](https://www.iconbolt.com/) - 一个 SVG 图标仓库，收集了 7 万多个图标，都可以免费使用。
 
 
 ---
@@ -31,7 +32,7 @@
 - [`SimpleLineIcons`](http://simplelineicons.com/) by Sabbir & Contributors (v2.4.1, **189** icons)
 - [FeatherIcon](https://feathericons.com/)
 - [material-design-icons](https://github.com/google/material-design-icons)
-- [weather-icons](https://github.com/erikflowers/weather-iconshttps://github.com/erikflowers/weather-icons)
+- [weather-icons](https://github.com/erikflowers/weather-icons)
 
 ---
 
