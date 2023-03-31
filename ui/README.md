@@ -23,6 +23,10 @@
 - [VMIC UED](https://www.uisdc.com/team/469077/) - 互联网中心用户体验设计团队（VMIC UED），持续为用户打造惊喜体验。
 - [极氪ZED](https://www.uisdc.com/team/563103/) - 一个平等、多元且富有创造力的团队。我们秉承「致广大而尽精微」的宗旨，分享用户研究、体验设计等领域的实践与经验。
 
+## 资源
+
+- [Web/App/Email 灵感类网站导航](https://uxchi.notion.site/881b4c0179a74935a3f607ad3521cdb5)
+
 ## 博客
 
 - [彩云Sky](https://www.uisdc.com/u/369567/) - 致力于翻译国外高质量的设计类文章，以每周一篇的更新频率引入国外干货，坚持创作多年时间，内容输出既优质又高产！
