@@ -23,10 +23,6 @@
 - [VMIC UED](https://www.uisdc.com/team/469077/) - 互联网中心用户体验设计团队（VMIC UED），持续为用户打造惊喜体验。
 - [极氪ZED](https://www.uisdc.com/team/563103/) - 一个平等、多元且富有创造力的团队。我们秉承「致广大而尽精微」的宗旨，分享用户研究、体验设计等领域的实践与经验。
 
-## 资源
-
-- [Web/App/Email 灵感类网站导航](https://uxchi.notion.site/881b4c0179a74935a3f607ad3521cdb5)
-
 ## 博客
 
 - [彩云Sky](https://www.uisdc.com/u/369567/) - 致力于翻译国外高质量的设计类文章，以每周一篇的更新频率引入国外干货，坚持创作多年时间，内容输出既优质又高产！
@@ -39,6 +35,7 @@
 - [邓海贝](https://www.uisdc.com/u/105343/) - 作为大学副教授，能从严谨的大学课堂无缝过渡到生动的视觉教程，成为育人无数的设计师园丁，愿称为平面设计创作领域的科班代表。
 - [Clippp](https://www.uisdc.com/u/60304/) - 善于在浩如烟海的设计知识汪洋中，筛选出难以察觉但极为重要的细节和技巧，用简明扼要的语言，将核心干货娓娓道来。
 - [Andrew](https://www.uisdc.com/u/218291/) - 专注于产出万字干货的设计行家，曾受邀为大厂分享创作经验。全面详尽的分享和贴心的资源打包，是让他脱颖而出的关键秘诀。
+- https://pencilandpaper.io/articles/ - 一个UX Patterns的博客
 
 ## 教程
 
@@ -48,6 +45,10 @@
 - [最新最全的设计资源打包下载](https://www.uisdc.com/zt/free-resources)
 - [产品出海趋势下的设计指南](https://www.uisdc.com/zt/enterprise-design)
 - [优秀产品设计全方位拆解](https://www.uisdc.com/zt/product-design)
+- [设计模式·导读 - 语雀](https://www.yuque.com/ant-design/design-pattern/intro)
+- https://design.gs.com/patterns
+- https://www.checklist.design/
+- [Design patterns](https://ui-patterns.com/patterns)
 
 ## 书籍
 
