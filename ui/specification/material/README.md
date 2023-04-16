@@ -1,5 +1,6 @@
 # Material Design
 
+- https://m3.material.io/
 - [最全面的 Material Design 学习资料](https://www.diycode.cc/topics/645)
 
 ## 实现
@@ -70,3 +71,8 @@
 - Evernote
 - Reddit
 - 知乎
+
+---
+
+- [Material Design 3 全新的进阶版本UI库](https://juejin.cn/post/7055303009605484551#heading-6)
+- [了解并应用 Material You (Material 3)](https://juejin.cn/post/7156103073767620645)
