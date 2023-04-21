@@ -8,12 +8,12 @@
 
 ## Landing Page
 
+- [landingfolio](https://www.landingfolio.com/) - The Best Landing Page Design Inspiration, Templates and More.
 - https://cruip.com/ - Beautiful Tailwind CSS templates for your next project
 - https://www.lapa.ninja/ - The Best Landing Page Examples
 Learn Design, Download Free Books & UI Kits
 - https://earlybird.im
 - [saaslandingpage](https://saaslandingpage.com/) - Discover the best 750 landing page examples created by top-class SaaS companies, and get ideas and inspiration for your next design project.
-- [landingfolio](https://www.landingfolio.com/) - The Best Landing Page Design Inspiration, Templates and More.
 - [Landing Page Examples](https://landings.dev/)  -Discover hundreds of landing pages created by leading companies for your design inspiration.
 
     专注 landing，特色按色彩，黑白与颜色。
