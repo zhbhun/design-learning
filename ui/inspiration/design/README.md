@@ -1,5 +1,7 @@
 - [dribbble](https://dribbble.com/shots) - Explore the world’s leading design portfolios
+- https://design.google/
 - [uplabs](https://www.uplabs.com/) - UpLabs is the place to find high-quality design resources for designers, creative agencies and developers
+- http://huaban.com/
 - [flowbase](https://www.flowbase.co/) - The Designers Library of Webflow & Figma Components
 
     Flowbase is the worlds largest component resource site. Explore endless components and templates to inspire your workflows and help you build better, faster.
