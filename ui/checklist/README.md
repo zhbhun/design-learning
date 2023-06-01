@@ -1,0 +1,1 @@
+- [Checklist Design](https://www.checklist.design/) - A collection of the best design practices.
