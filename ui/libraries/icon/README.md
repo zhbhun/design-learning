@@ -2,6 +2,8 @@
 
 - iconify.design
 - https://www.iconfont.cn/
+- https://iconbuddy.app/
+- https://www.flaticon.com/
 
 ## 素材
 
