@@ -1,0 +1,3 @@
+- [IconKitchen](https://icon.kitchen/)
+- https://github.com/romannurik/AndroidAssetStudio
+- [capacitor-assets](https://github.com/ionic-team/capacitor-assets)
