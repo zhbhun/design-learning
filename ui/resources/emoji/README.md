@@ -1,1 +1,2 @@
 - [fluentui-emoji](https://github.com/microsoft/fluentui-emoji) - A collection of familiar, friendly, and modern emoji from Microsoft
+- https://searchemoji.app/

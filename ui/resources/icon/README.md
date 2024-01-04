@@ -4,6 +4,7 @@
 - https://www.iconfont.cn/
 - https://iconbuddy.app/
 - https://www.flaticon.com/
+- https://yesicon.app/
 
 ## 素材
 
