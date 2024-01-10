@@ -24,6 +24,7 @@
 - [Open-source Unicode typefaces - Wikipedia](https://en.wikipedia.org/wiki/Open-source_Unicode_typefaces)
 - [Font Library](https://fontlibrary.org/) - 开源字体网站
 - [Google Font](https://fonts.google.com/) - 开源字体网站
+- https://fontsource.org/
 - [The League of Movable Type](https://www.theleagueofmoveabletype.com/) - 一个非常漂亮的开源字体展示网站。
 - [Free Font Utopia](https://www.fontsquirrel.com/)
 - https://www.fonts.com/
