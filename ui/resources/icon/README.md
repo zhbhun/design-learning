@@ -6,6 +6,10 @@
 - https://www.flaticon.com/
 - https://yesicon.app/
 
+## Logo
+
+- https://svgl.app/
+
 ## 素材
 
 - https://zhuanlan.zhihu.com/p/27493719
