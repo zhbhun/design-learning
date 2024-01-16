@@ -1,3 +1,9 @@
+- https://designsystemsrepo.com/
+- https://thedesignsystem.guide/
+- https://www.designsystemchecklist.com/
+- https://designsystems.surf/
+- https://designsystemsrepo.com/
+
 # 规范
 
 - [Ant Design](https://ant.design/index-cn)
