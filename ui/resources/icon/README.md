@@ -5,6 +5,7 @@
 - https://iconbuddy.app/
 - https://www.flaticon.com/
 - https://yesicon.app/
+- https://iconce.com/
 
 ## Logo
 
