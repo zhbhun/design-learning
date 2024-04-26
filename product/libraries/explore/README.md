@@ -1,0 +1,4 @@
+- [Product Hunt](https://www.producthunt.com/)
+- [神器集](https://hao.logosc.cn/)
+- [异次元软件世界](https://www.iplaysoft.com/)
+- [少数派](https://sspai.com/)
