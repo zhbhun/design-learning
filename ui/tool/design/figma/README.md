@@ -17,3 +17,5 @@
 ### AI
 
 - https://codia.ai/
+- [How can you convert a image/screenshot into a Figma editable file ?](https://www.reddit.com/r/UX_Design/comments/15qipsy/how_can_you_convert_a_imagescreenshot_into_a/)
+- [Screenshot2Design](https://www.figma.com/community/plugin/1237633393230609544/screenshot2design)
