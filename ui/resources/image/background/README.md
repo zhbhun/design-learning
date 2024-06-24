@@ -1,1 +1,2 @@
 - https://bgjar.com/
+- [background-snippets](https://github.com/ibelick/background-snippets) - Modern background snippets: copy, paste, ready-to-use
