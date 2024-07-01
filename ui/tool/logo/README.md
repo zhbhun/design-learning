@@ -18,3 +18,4 @@
 - [Favicon Generator. For real.](https://realfavicongenerator.net/) - Check your existing favicon with our online tool and see what can be improved.
 - [scripts/generate-pwa-icons.ts](https://github.com/elk-zone/elk/blob/main/scripts/generate-pwa-icons.ts)
 - https://www.appicon.co/#app-icon
+- https://shipfa.st/tools/logo-fast
