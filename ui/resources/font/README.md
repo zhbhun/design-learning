@@ -29,6 +29,10 @@
 - [Free Font Utopia](https://www.fontsquirrel.com/)
 - https://www.fonts.com/
 
+### 像素风
+
+- [Press Start 2P](https://fonts.google.com/specimen/Press+Start+2P)
+
 ## 字体推荐
 
 - [The 21 Best Handwriting Fonts on Google Docs and How to Use Them](https://www.pdfgear.com/how-to/handwriting-fonts-google-docs.htm)
