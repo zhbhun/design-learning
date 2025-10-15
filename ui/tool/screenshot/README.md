@@ -1,0 +1,1 @@
+- https://www.appshots.top/editor - 应用商店截图
