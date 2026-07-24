@@ -1,3 +1,6 @@
+- https://www.designsystems.com
+- https://github.com/alexpate/awesome-design-systems
+
 ## 背景
 
 | Tailwind 用法 | CSS Token | 色值 | 用途 |
