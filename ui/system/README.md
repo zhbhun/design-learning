@@ -19,6 +19,8 @@
 | [Atlassian](https://unpkg.com/@atlaskit/tokens@15.5.0/dist/esm/artifacts/token-default-values.js) | `color.text` `#292a2e` | `color.text.subtle` `#505258` | `color.text.subtlest` `#6b6e76` | `#080f214a`，白底约 `#b7b9bf` | `color.text.inverse` `#fff` |
 | [Material 3](https://m3.material.io/styles/color/roles) | `onSurface` | `onSurfaceVariant` | 无独立层级 | 通常为 `onSurface` + disabled opacity | `inverseOnSurface` |
 
+- [Atlassian Design](https://carbondesignsystem.com/)
+
 ## 文字
 
 | Tailwind 用法 | CSS Token | 色值 | 用途 |
