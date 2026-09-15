@@ -1,0 +1,9 @@
+- Figma
+- Claude Design
+- Open Design
+- https://app.paper.design/
+- https://www.pen.dev/
+- https://github.com/kgoedecke/doop
+- https://stitch.withgoogle.com/
+- https://docs.subframe.com/overview
+- https://www.uxpin.com/
