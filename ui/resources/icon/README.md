@@ -1,6 +1,7 @@
 # 图标
 
 - iconify.design
+- https://thesvg.org
 - https://www.iconfont.cn/
 - https://iconbuddy.app/
 - https://www.flaticon.com/
